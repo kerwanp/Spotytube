@@ -24,7 +24,7 @@ Then install dependencies:
 npm install
 ```
 
-Open the file `src/.env` and enter the credentials of your Spotify application.
+Copy the file `.env.sample` to `.env` and enter the credentials of your Spotify application.
 
 Open the file `data/downloader.txt` and append the URLs of your playlists (one by line).
 
