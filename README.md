@@ -1,4 +1,4 @@
-# Spotytube - Spotify downloader
+# Spotytube - Spotify downloader
 
 Spotytube is a NodeJS program to easily download every song of a Spotify playlist with only one URL.
 
