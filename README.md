@@ -4,7 +4,7 @@ Spotytube is a NodeJS program to easily download every song of a Spotify playlis
 
 ## WIP
 
-This project is currently is still under development.
+This project is still under development.
 You may occurs issues while using it.
 
 ## Dependencies
